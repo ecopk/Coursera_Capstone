@@ -1,0 +1,226 @@
+﻿CommunityCode,Secotrs,Population,SectorCommunityName,SectorCommunityNameArabic
+101,Sector 1,2,NAKHLAT DEIRA,نخلة ديرة
+111,Sector 1,1550,AL CORNICHE,الكورنيش
+112,Sector 1,6621,AL RASS,الرأس
+113,Sector 1,14963,AL DHAGAYA,الضغاية
+114,Sector 1,2563,AL BUTEEN,البطين
+115,Sector 1,3750,AL SABKHA,السبخة
+116,Sector 1,18512,AYAL NASIR,عيال ناصر
+117,Sector 1,37371,AL MURAR,المرر
+118,Sector 1,47497,NAIF,نايف
+119,Sector 1,9976,AL REGA,الرقة
+121,Sector 1,14,CORNICHE DEIRA,كورنيش ديرة
+122,Sector 1,23838,AL BARAHA,البراحة
+123,Sector 1,42804,AL MUTEENA,المطينة
+124,Sector 1,68058,AL MURQABAT,المرقبات
+125,Sector 1,6690,REGA AL BUTEEN,رقة البطين
+126,Sector 1,15878,ABU HAIL,ابو هيل
+127,Sector 1,79735,HOR AL ANZ,هورالعنز
+128,Sector 1,1775,AL KHBEESI,الخبيصي
+129,Sector 1,12513,PORT SAEED,بور سعيد
+131,Sector 1,460,AL HAMRIYA PORT,ميناء الحمرية
+132,Sector 1,19388,AL WAHEDA,الوحيدة
+133,Sector 1,19961,HOR AL ANZ EAST,هور العنز شرق
+134,Sector 1,13218,AL MAMZER,الممزر
+213,Sector 2,2790,NAD SHAMMA,ند شما
+214,Sector 2,17254,AL GARHOUD,القرهود
+215,Sector 2,2829,UM RAMOOL,ام رمول
+216,Sector 2,33719,AL RASHIDIYA,الراشدية
+221,Sector 2,22,DUBAI  AIRPORT,مطار دبي الدولي
+226,Sector 2,10250,AL TWAR FIRST,الطوار الأولى
+227,Sector 2,4378,AL TWAR SECOND,الطوار الثانية
+228,Sector 2,9851,AL TWAR THIRD,الطوار الثالثة
+231,Sector 2,23760,AL NAHDA FIRST,النهدة الأولى
+232,Sector 2,41225,AL QUSAIS FIRST,القصيص الأولى
+233,Sector 2,11144,AL QUSAIS SECOND,القصيص الثانية
+234,Sector 2,6480,AL QUSAIS THIRD,القصيص الثالثة
+241,Sector 2,54678,AL NAHDA SECOND,النهدة الثانية
+242,Sector 2,8181,AL QUSAIS IND. FIRST,القصيص الصناعية الأولى
+243,Sector 2,7875,AL QUSAIS IND. SECOND,القصيص الصناعية الثانية
+244,Sector 2,5950,MUHAISANAH THIRD,محيصنة الثالثة
+245,Sector 2,27848,MUHAISANAH FOURTH,محيصنة الرابعة
+246,Sector 2,2335,AL QUSAIS IND. THIRD,القصيص الصناعية الثالثة
+247,Sector 2,2188,AL QUSAIS IND. FOURTH,القصيص الصناعية الرابعة
+248,Sector 2,600,AL QUSAIS IND FIFTH,القصيص الصناعية الخامسة
+251,Sector 2,57668,MURDAF,مردف
+252,Sector 2,63,MUSHRAIF,مشرف
+261,Sector 2,7023,MUHAISANAH FIRST,محيصنة الأولى
+262,Sector 2,15182,AL MEZHAR FIRST,المزهر الأولى
+263,Sector 2,10463,AL MEZHAR SECOND,المزهر الثانية
+264,Sector 2,202918,MUHAISANAH SECOND ,محيصنة الثانية 
+265,Sector 2,12068,OUD AL MUTEEN FIRST,عود المطينة الأولى
+266,Sector 2,4780,OUD AL MUTEEN SECOND ,عود المطينة الثانية 
+267,Sector 2,2,MUHAISANAH FIFTH,محصينة الخامسة 
+268,Sector 2,6110,OUD AL MUTEEN THIRD ,عود المطينة الثالثة
+271,Sector 2,3120,WADI ALAMRADI,وادي العمردي
+281,Sector 2,11169,AL KHAWANEEJ ONE,الخوانيج الأولى
+282,Sector 2,2786,AL KHAWANEEJ TWO,الخوانيج الثانية
+283,Sector 2,1690,AL AYAS,العياص
+284,Sector 2,805,AL TTAY,الطي
+302,Sector 3,20,JUMEIRA BAY,شاطئ جميرا
+303,Sector 3,4,WORLD ISLANDS,جزر العالم
+304,Sector 3,3,JUMEIRA ISLAND 2,جزيرة جميرا 2
+311,Sector 3,2,AL SHANDAGA,الشندغة
+312,Sector 3,44783,AL SUQ AL KABEER,السوق الكبير
+313,Sector 3,31957,AL HAMRIYA,الحمرية
+314,Sector 3,5118,UM HURAIR FIRST,ام هرير الأولى
+315,Sector 3,4579,UM HURAIR SECOND,ام هرير الثانية
+316,Sector 3,41266,AL RAFFA,الرفاعة
+317,Sector 3,36808,AL MANKHOOL,المنخول
+318,Sector 3,69095,AL KARAMA,الكرامة
+319,Sector 3,13364,OUD METHA,عود ميثاء
+321,Sector 3,8294,MADINAT DUBAI AL MELAHEYAH (AL MINA),مدينه دبي الملاحيه (الميناء)
+322,Sector 3,12164,AL HUDAIBA,الحضيبة
+323,Sector 3,21072,AL JAFLIYA,الجافلية
+324,Sector 3,2,AL KIFAF,الكفاف
+325,Sector 3,2861,ZAABEEL FIRST,زعبيل الأولى
+326,Sector 3,1053,AL JADAF,الجداف
+332,Sector 3,17083,JUMEIRA FIRST,جميرا الأولى
+333,Sector 3,51467,AL BADA,البدع
+334,Sector 3,40228,AL SATWA,السطوة
+335,Sector 3,14499,TRADE CENTER FIRST,المركز التجاري الأولى
+336,Sector 3,11755,TRADE CENTER SECOND,المركز التجاري الثانية
+337,Sector 3,6806,ZAABEEL SECOND,زعبيل الثانية
+342,Sector 3,8001,JUMEIRA SECOND,جميرا الثانية
+343,Sector 3,10736,AL WASL,الوصل
+345,Sector 3,13201,BURJ KHALIFA,برج خليفة
+346,Sector 3,14935,AL KALIJ AL TEJARI,الخليج التجاري
+347,Sector 3,7,AL MERKADH,المركاض
+352,Sector 3,11560,JUMEIRA THIRD,جميرا الثالثة
+353,Sector 3,7540,AL SAFFA FIRST,الصفا الأولى
+354,Sector 3,15665,AL GOZE FIRST,القوز الأولى
+355,Sector 3,4463,AL GOZE SECOND,القوز الثانية
+356,Sector 3,10743,UM SUQAIM FIRST,ام سقيم الأولى
+357,Sector 3,5643,AL SAFFA SECOND,الصفا الثانية
+358,Sector 3,40525,AL GOZE THIRD,القوز الثالثة
+359,Sector 3,17251,AL GOZE FOURTH,القوز الرابعة
+362,Sector 3,11012,UM SUQAIM SECOND,ام سقيم الثانية
+363,Sector 3,7342,AL MANARA,المنارة
+364,Sector 3,26569,AL GOZE IND. FIRST ,القوز الصناعية الأولى 
+365,Sector 3,157966,AL GOZE IND. SECOND ,القوز الصناعية الثانية 
+366,Sector 3,6806,UM SUQAIM THIRD,ام سقيم الثالثة
+367,Sector 3,3946,UM AL SHEIF,ام الشيف
+368,Sector 3,23995,AL GOZE IND. THIRD ,القوز الصناعية الثالثة 
+369,Sector 3,38240,AL GOZE IND. FOURTH ,القوز الصناعية الرابعة 
+372,Sector 3,3445,AL SAFOUH FIRST,الصفوح الأولى
+373,Sector 3,33345,AL BARSHAA FIRST,البرشاء الأولى
+375,Sector 3,11680,AL BARSHAA THIRD,البرشاء الثالثة
+376,Sector 3,12800,AL BAESHAA SECOND,البرشاء الثانية
+381,Sector 3,12711,NAKHLAT JUMEIRA ,نخلة جميرا 
+382,Sector 3,5592,AL SOFOUH SECOND,الصفوح الثانية
+383,Sector 3,20007,AL THANYAH FIRST (V. RABIE SAHRA'A),الثنيه الأولى (قرية ربيع الصحراء)
+384,Sector 3,115,AL THANYAH SECOND (JEBEL ALI HORSE RACING),الثنيه الثانية (مضمار جبل علي)
+388,Sector 3,12025,AL THANYAH THIRD (EMIRATE HILLS SECOND),الثنيه الثالثة (تلال الامارات الثانية)
+392,Sector 3,52917,MARSA DUBAI (AL MINA AL SEYAHI) ,مرسى دبي (الميناء السياحي) 
+393,Sector 3,28012,AL THANYAH FIFTH (EMIRATE HILLS FIRST) ,الثنيه الخامسة (تلال الامارات الاولى)
+394,Sector 3,17260,AL THANYAH FOURTH (EMIRATE HILLS THIRD) ,الثنيه الرابعة (تلال الامارات الثالثة) 
+412,Sector 4,3687,AL KHEERAN,الخيران
+413,Sector 4,2,RAS AL KHOR,رأس الخور
+415,Sector 4,2,AL KHAIRAN FIRST,الخيران الأولى
+416,Sector 4,13013,NAD AL HAMAR,ند الحمر
+421,Sector 4,16776,AL WARQAA FIRST,الورقاء الأولى
+422,Sector 4,9760,AL WARQAA  SECOND,الورقاء الثانية
+423,Sector 4,11980,AL WARQAA THIRD,الورقاء الثالثة
+424,Sector 4,11682,AL WARQAA FOURTH , الورقاء الرابعة 
+425,Sector 4,60,AL WARQAA FIFTH , الورقاء الخامسة 
+431,Sector 4,50,WADI ALSHABAK ,وادي الشبك 
+501,Sector 5,5,NAKHLAT JABAL ALI,نخلة جبل علي
+502,Sector 5,4,AL WAJEHAH AL BHARIYAH,الواجهة البحرية
+511,Sector 5,3231,HESSYAN FIRST,حصيان الاولى
+512,Sector 5,45,HESSYAN SECOND,حصيان الثانية
+513,Sector 5,9,SAIH SHUAIB 1,سيح شعيب 1
+516,Sector 5,2462,JABAL ALI INDUSTRIAL THIRD,جبل علي الصناعية الثالثة 
+518,Sector 5,23000,JABAL ALI INDUSTRIAL SECOND,جبل علي الصناعية الثانية
+521,Sector 5,2183,MADINAT AL MATAAR,مدينة المطار
+531,Sector 5,13420,SAIH SHUAIB 2,سيح شعيب 2
+532,Sector 5,11144,SAIH SHUAIB 3,سيح شعيب 3
+533,Sector 5,11170,SAIH SHUAIB 4,سيح شعيب 4
+591,Sector 5,67765,JABAL ALI FIRST,جبل علي الأولى
+592,Sector 5,1539,JABAL ALI  SECOND,جبل علي الثانية
+593,Sector 5,1513,JABAL ALI THIRD,جبل علي الثالثة
+594,Sector 5,28600,MENA JABAL ALI,ميناء جبل علي
+597,Sector 5,57998,DUBAI INVESTMENT PARK2,مجمع دبي للإستثمار الثاني
+598,Sector 5,67575,DUBAI INVESTMENT PARK1,مجمع دبي للإستثمارالاول
+599,Sector 5,129239,JABAL ALI INDUSTRIAL FIRST,جبل علي الصناعية الأولى
+611,Sector 6,15,BU KADRA,بو كدرة
+612,Sector 6,2201,RAS AL KHOR IND. FIRST,رأس الخور الصناعية الأولى
+613,Sector 6,2097,RAS AL KHOR IND. SECOND,رأس الخور الصناعية الثانية
+614,Sector 6,21238,RAS AL KHOR IND. THIRD,رأس الخور الصناعية الثالثة
+615,Sector 6,2175,NAD AL SHIBBA SECOND,ند الشبا الثانية
+616,Sector 6,94,NAD AL SHIBBA THIRD,ند الشبا الثالثة
+617,Sector 6,2525,NAD AL SHIBBA FOURTH,ند الشبا الرابعة
+618,Sector 6,3633,NAD AL SHIBBA FIRST,ند الشبا الأولى
+621,Sector 6,94460,WARSAN FIRST,ورسان الأولى
+622,Sector 6,764,WARSAN SECOND,ورسان الثانية
+624,Sector 6,4723,WARSAN FOURTH,ورسان الرابعة
+626,Sector 6,34074,NADD HESSA,ند حصة
+631,Sector 6,51,HADAEQ SHEIKH MOHAMMED BIN RASHID,حدائق الشيخ محمد بن راشد
+643,Sector 6,7865,WADI AL SAFA 2,وادي الصفا 2
+645,Sector 6,4895,WADI AL SAFA 3,وادي الصفا 3
+646,Sector 6,2,WADI AL SAFA 4,وادي الصفا 4
+648,Sector 6,15903,WADI AL SAFA 5,وادي الصفا 5
+664,Sector 6,12380,WADI AL SAFA 6 (ARABIAN RANCHES),وادي الصفا 6 (المرابع العربية)
+665,Sector 6,6492,WADI AL SAFA 7,وادي الصفا 7 
+671,Sector 6,11194,AL BARSHA SOUTH FIRST,البرشاء جنوب الأولى
+672,Sector 6,4410,AL BARSHA SOUTH SECOND,البرشاء جنوب الثانية
+673,Sector 6,2784,AL BARSHA SOUTH THIRD,البرشاء جنوب الثالثة
+674,Sector 6,8561,AL HEBIAH FIRST,الحبيه الأولى
+675,Sector 6,817,AL HEBIAH SECOND,الحبيه الثانية
+676,Sector 6,1470,AL HEBIAH THIRD,الحبيه الثالثة
+681,Sector 6,15214,AL BARSHA SOUTH FOURTH,البرشاء جنوب الرابعة
+682,Sector 6,13422,AL HEBIAH FOURTH,الحبيه الرابعة
+683,Sector 6,5949,AL HEBIAH FIFTH,الحبيه الخامسة
+684,Sector 6,5145,AL BARSHA SOUTH FIFTH,البرشاء جنوب الخامسة
+685,Sector 6,10021,ME'AISEM FIRST,معيصم الأولى
+686,Sector 6,11,ME'AISEM SECOND,معيصم الثانية
+711,Sector 7,2983,AL AWEER ONE,العوير الأولى
+721,Sector 7,4621,AL AWEER TWO,العوير الثانية
+724,Sector 7,24,ENKHALI,نخلي
+727,Sector 7,45,AL WOHOOSH,الوحوش
+731,Sector 7,2806,LEHBAB FIRST,لهباب الأولى
+735,Sector 7,718,AL MERYAL,المريال
+736,Sector 7,450,NAZWAH,نزوه
+811,Sector 8,13260,WARSAN THIRD,ورسان الثالثة
+812,Sector 8,2696,AL ROWAIYAH FIRST,الرويه الأولى
+813,Sector 8,25,AL ROWAIYAH SECOND,الرويه الثانية
+814,Sector 8,3800,AL ROWAIYAH THIRD,الرويه الثالثة
+821,Sector 8,1105,MEREIYEEL,مرييل
+824,Sector 8,48,UMM AL DAMAN,أم الدمن
+826,Sector 8,51,LE HEMAIRA,الحميرا
+831,Sector 8,1264,LEHBAB SECOND,لهباب الثانية
+835,Sector 8,294,UMM AL MO'MENEEN,أم المؤمنين
+841,Sector 8,888,MARGHAM,مرغم
+845,Sector 8,168,AL MAHA,المها
+847,Sector 8,182,UMM ESELAY,أم السلي
+851,Sector 8,232,REMAH,رماح
+857,Sector 8,539,MARGAB,مرقب
+861,Sector 8,88,YARAAH,يراح
+891,Sector 8,12769,HATTA,حتا
+911,Sector 9,8,UMM NAHAD FIRST,أم نهد الأولى
+912,Sector 9,2,UMM NAHAD SECOND,أم نهد الثانية
+913,Sector 9,2329,UMM NAHAD THIRD,أم نهد الثالثة
+914,Sector 9,4,UMM NAHAD FOURTH,أم نهد الرابعة
+915,Sector 9,403,AL YUFRAH 1,اليفره 1
+916,Sector 9,2,AL YUFRAH 2,اليفره 2
+917,Sector 9,75,AL MARMOOM,المرموم
+918,Sector 9,4,AL YUFRAH 3,اليفره 3
+919,Sector 9,3,AL YUFRAH 4,اليفره 4
+921,Sector 9,0,AL YALAYIS 1,اليلايس 1
+922,Sector 9,217,AL YALAYIS 2,اليلايس 2
+923,Sector 9,4,AL YALAYIS 3,اليلايس 3
+924,Sector 9,8,AL YALAYIS 4,اليلايس 4
+925,Sector 9,97,AL YALAYIS 5,اليلايس 5
+931,Sector 9,2514,AL LESAILY,الليسيلي
+941,Sector 9,55,GRAYTEESAH,قريطيسه
+945,Sector 9,374,AL FAGAA',الفقع
+951,Sector 9,589,SAIH AL SALAM,سيح السلم
+956,Sector 9,35,AL HATHMAH,الحثمة
+961,Sector 9,658,AL SELAL,الصلال
+967,Sector 9,7,GHADEER BARASHY,غدير براشي
+971,Sector 9,16,SAIH AL DAHAL,سيح الدحل
+975,Sector 9,0,AL O'SHOOSH,العشوش
+978,Sector 9,3,SAIH SHUA'ALAH,سيح شعيله
+981,Sector 9,804,MUGATRAH,مقطره
+987,Sector 9,10,AL LAYAN 1,الليان 1
+988,Sector 9,0,AL LAYAN 2,الليان 2
+991,Sector 9,0,HEFAIR,حفير
